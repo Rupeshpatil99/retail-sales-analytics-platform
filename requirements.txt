@@ -1,0 +1,4 @@
+# No external dependencies required.
+# This project uses only the Python standard library
+# (dataclasses, json, logging, uuid, re, os).
+# Tested on Python 3.9+

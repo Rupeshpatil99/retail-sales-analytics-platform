@@ -1,0 +1,2 @@
+2026-07-17 13:44:20,474 - utils.file_handler - INFO - Saved 4 record(s) to data/products.json
+2026-07-17 13:44:20,474 - services.inventory_service - INFO - Added product: 2
