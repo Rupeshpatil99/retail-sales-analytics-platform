@@ -136,7 +136,3 @@ message — the application never crashes on bad input.
 - Containerize with Docker
 - Add a CI pipeline (GitHub Actions) to run tests on every push
 - Add sales analytics: revenue by category, top customers, monthly trends
-
-## License
-
-This project is open for personal and educational use.
