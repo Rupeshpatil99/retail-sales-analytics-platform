@@ -125,8 +125,6 @@ exceptions instead of generic errors:
 | `CustomerNotFoundError` | A customer id doesn't exist |
 | `InsufficientStockError` | A sale requests more stock than is available |
 
-All errors are caught at the CLI layer and shown as a friendly
-message — the application never crashes on bad input.
 
 ## Roadmap / possible extensions
 
