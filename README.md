@@ -126,11 +126,4 @@ exceptions instead of generic errors:
 | `InsufficientStockError` | A sale requests more stock than is available |
 
 
-## Roadmap / possible extensions
 
-- Add unit tests with `pytest` for each service
-- Replace JSON storage with SQLite for larger datasets
-- Add a REST API layer (FastAPI) on top of the existing services
-- Containerize with Docker
-- Add a CI pipeline (GitHub Actions) to run tests on every push
-- Add sales analytics: revenue by category, top customers, monthly trends
