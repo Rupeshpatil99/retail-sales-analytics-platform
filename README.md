@@ -15,7 +15,6 @@ validation, custom exceptions, and logging.
 - **Logging** — every action (add, update, delete, sale) is logged to `logs/app.log` with timestamps
 - **JSON persistence** — no database required; all data is stored in human-readable JSON files
 - **Fully typed** — every function signature uses Python type hints
-- **Documented** — every module, class, and public method has a docstring
 
 ## Project structure
 
