@@ -1,10 +1,5 @@
 # Retail Sales Analytics Platform
 
-A command-line retail management system for handling inventory,
-customers, and sales — built with clean, industry-standard Python
-architecture: layered OOP design, type hints, docstrings, input
-validation, custom exceptions, and logging.
-
 ## Features
 
 - **Inventory management** — add, view, update, and delete products with stock tracking
